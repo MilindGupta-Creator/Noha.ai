@@ -27,10 +27,10 @@ Here are some screenshots of the application:
 
 
 ### Add Application Modal
-![Add Application Modal](/image2.png)
+![Add Application Modal](https://i.postimg.cc/k5Z3Rfsk/Screenshot-572.png)
 
 ### Listing Example Example
-![Add Job](/image3.png)
+![Add Job](https://i.postimg.cc/BvtfvdTT/Screenshot-573.png)
 
 ---
 
