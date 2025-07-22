@@ -23,7 +23,7 @@ JobTrackr is a modern, responsive web application for tracking job applications,
 Here are some screenshots of the application:
 
 ### Dashboard Overview
-![Dashboard Overview](https://postimg.cc/LgsCYchC)
+![Dashboard Overview](https://i.postimg.cc/1XGLTPSQ/Screenshot-571.png)
 
 
 ### Add Application Modal
